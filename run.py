@@ -5,4 +5,4 @@ import streamlit as st
 
 st.title('Become Your Best at Dr Jelvani Aesthetic Clinic 😎')
 
-# emoji cheat sheet for using emojis
+# emoji cheat sheet for using emojis in string
